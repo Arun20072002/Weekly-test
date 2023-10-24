@@ -1,0 +1,32 @@
+/* mobile */
+	@media(min-width:320px){
+		.card-space{
+			padding-top:20%;
+		}
+		.card-space-1{
+			padding-top:20%;
+		}
+	}
+
+
+
+/* i-pad */
+	@media(min-width:760px){
+		.card-space{
+			padding-top:120%;
+		}
+		.card-space-1{
+			padding-top:75%;
+		}
+	}
+
+
+/* laptop */
+	@media(min-width:960px){
+		.card-space{
+			padding-top:120%;
+		}
+		.card-space-1{
+			padding-top:75%;
+		}
+	}
